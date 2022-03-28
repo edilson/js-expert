@@ -1,0 +1,20 @@
+{
+  "name": "aula04-coverage-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "npx mocha -w *.test.js",
+    "test:cov": "npx nyc npx mocha *.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.2",
+    "supertest": "^6.2.2"
+  },
+  "devDependencies": {
+    "nyc": "^15.1.0"
+  }
+}

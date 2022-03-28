@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a416f1aa-8164-4d91-b6a0-138b6f0fc72f",
+    "name": "Civic",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "6ba76494-0a93-40bc-ba58-0d92e374e199",
+    "name": "Spyder",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
